@@ -1,4 +1,4 @@
-# Social Stereotype Analysis (SSA) in Hate Speech Tecnologies
+# Social Stereotype Analysis in Hate Speech Tecnologies
 
 
 <h2 align="left"> FUNDING </h2>
