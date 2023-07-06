@@ -1,4 +1,4 @@
-# Social Stereotype Analysis in Hate Speech Tecnologies
+# Social Stereotype Analysis in Hate Speech
 
 
 <h2 align="left"> FUNDING </h2>
