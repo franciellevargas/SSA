@@ -7,11 +7,12 @@
 
 <p align="justify"> Recent studies have shown that hate speech technologies may propagate social stereotypes against marginalized groups. Nevertheless, there has been a lack of realistic approaches to assess and mitigate biased technologies. Here, we introduce a new approach to analyze the potential of hate-speech classifiers to reflect social stereotypes through the investigation of stereotypical beliefs by contrasting them with counter-stereotypes. We empirically measure the distribution of stereotypical beliefs in hate speech clasifiers by analyzing the distinctive classification of tuples containing stereotypes versus counter-stereotypes. Experiment results show that hate speech classifiers attribute unreal or negligent offensiveness to social identity groups by reflecting and reinforcing stereotypical beliefs regarding minorities. </p>
 
+ ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/7eaddb35940c18eb3e19f5d2fb0a545dbee8bd5b/img/ssa-3.png)
 
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (2023). <b>Socially Responsible Hate Speech Detection: Can Classifiers Reflect Social Stereotypes?</b>. 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023), pp.1187-1196. Varna, Bulgari. Association for Computational Linguistics (ACL). 
+Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (2023). <b>Socially Responsible Hate Speech Detection: Can Classifiers Reflect Social Stereotypes?</b>. In 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023), pp.1187-1196. Varna, Bulgari. Association for Computational Linguistics (ACL). 
 </p>
 
 </br>
