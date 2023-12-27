@@ -11,7 +11,7 @@
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b>HateBR: large expert annotated corpus of Brazilian Instagram comments for offensive language and hate speech detection</b>. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7174–7183. Marseille, France. Association for Computational Linguistics (ACL). 
+Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (2023). <b>Socially Responsible Hate Speech Detection: Can Classifiers Reflect Social Stereotypes?</b>. 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023), pp.1187-1196. Varna, Bulgari. Association for Computational Linguistics (ACL). 
 </p>
 
 </br>
@@ -28,7 +28,6 @@ Vargas, F., Carvalho, I., Góes, F. R., Pardo, T.A.S., Benevenuto, F. (2022). <b
     editor = "Mitkov, Ruslan  and
       Angelova, Galia",
     booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
-    month = sep,
     year = "2023",
     address = "Varna, Bulgaria",
     publisher = "INCOMA Ltd., Shoumen, Bulgaria",
