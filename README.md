@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794023.svg)](https://doi.org/10.5281/zenodo.10794023)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
 
 <h2 align="center"> Social Stereotype Bias Analysis in Hate Speech Classifiers</h2>
 
