@@ -13,7 +13,7 @@
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (2023). <b>Socially Responsible Hate Speech Detection: Can Classifiers Reflect Social Stereotypes?</b>. In 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023), pp.1187-1196. Varna, Bulgari. Association for Computational Linguistics (ACL). 
+Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (2023). <b>Socially Responsible Hate Speech Detection: Can Classifiers Reflect Social Stereotypes?</b>. In Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing (RANLP 2023), pp.1187-1196. Varna, Bulgari. Association for Computational Linguistics (ACL). 
 </p>
 
 </br>
