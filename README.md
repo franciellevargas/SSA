@@ -45,7 +45,9 @@ Vargas, F., Carvalho, I., Hürriyetoğlu, A., Pardo, T.A.S., Benevenuto, F. (202
 
 
 
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapesp.jpg)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/fc03a6672ab2937e413e4508a5061abed4a66098/img/google-logo-menor.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/cnpq-capes.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/fc03a6672ab2937e413e4508a5061abed4a66098/img/fapesp.jpg)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/511f98e149a014caf00de2f5260560706f30bcd2/img/fapemg.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/1567af872ea355dc9947a6edecb02331e785a13d/img/locus_media.png)
 
